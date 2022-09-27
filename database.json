@@ -61,12 +61,12 @@
       "lastmonthly": 0,
       "petFood": 0
     },
-    "62856433540736@s.whatsapp.net": {
-      "exp": 12867,
-      "limit": 100,
+    "6289694121237@s.whatsapp.net": {
+      "exp": 12867872826373,
+      "limit": 1000000,
       "lastclaim": 0,
-      "registered": false,
-      "name": "F",
+      "registered": True,
+      "name": "Agiel",
       "age": -1,
       "regTime": -1,
       "afk": -1,
@@ -76,7 +76,7 @@
       "level": 0,
       "role": "Warrior V",
       "autolevelup": true,
-      "money": 0,
+      "money": 999999999,
       "healt": 100,
       "potion": 10,
       "sampah": 0,
